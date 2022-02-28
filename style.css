@@ -1,0 +1,17 @@
+.container{
+    background-color: pink;
+    margin: 2%;
+    padding: 15px;
+    border-radius: 5px;
+    border:solid 3px yellow;
+    box-shadow: 15px 15px 15px firebrick;
+    
+    }
+    
+    input {
+        margin-bottom: 3px;
+    }
+    
+    h1{
+        font-family: sans-serif;
+    }
